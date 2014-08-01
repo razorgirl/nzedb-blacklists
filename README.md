@@ -3,6 +3,8 @@ nzedb-blacklists
 
 Optional binary blacklist filters for nZEDb. Just copy and paste.
 
+Feel free to fork and send push requests with your own filters.
+
 ## The Filters
 
 Group | Description | Type | Field | Regex
